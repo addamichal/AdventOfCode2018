@@ -1,0 +1,14 @@
+{
+  "name": "AdventOfCode2018",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Michal Adda",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.21"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.1"
+  }
+}
